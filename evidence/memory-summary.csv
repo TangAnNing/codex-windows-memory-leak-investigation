@@ -1,0 +1,7 @@
+metric,start,end,change
+System committed memory (MB),12842.8,21186.5,8343.7
+Available physical memory (MB),5395,131,-5264
+Total process private memory (MB),5801.6,5812.2,10.6
+Nonpaged pool (MB),848.4,1462.0,613.6
+Paged pool (MB),578.6,814.2,235.6
+Unattributed commit growth (MB),0,7483.9,7483.9
