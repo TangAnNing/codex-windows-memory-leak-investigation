@@ -1,0 +1,52 @@
+# Raw monitoring output
+memory-monitor/
+work/
+raw-data/
+raw-logs/
+
+# Log and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+
+# Codex configuration and state
+config.toml
+auth.json
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.jsonl
+
+# API keys and environment files
+.env
+.env.*
+*.key
+*.pem
+*.token
+*.secret
+secrets.*
+
+# Windows files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# PowerShell temporary output
+*.clixml
+
+# Crash dumps
+*.dmp
+*.dump
+*.mdmp
+
+# Generated reports that may contain personal paths
+private-report/
+private-evidence/
